@@ -1,4 +1,4 @@
-# learning_numpy
+# learning_numpy                                    ![image](https://github.com/nimmigopan/learning_numpy/assets/35449494/7cba666d-e3b4-44ec-87a9-0ee566c2143c)
 
 ## What is Numpy?
 NumPy, short for "Numerical Python," is a popular open-source Python library for numerical and scientific computing.
